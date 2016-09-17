@@ -4,7 +4,7 @@ var request = require("request"),
   cheerio = require("cheerio"),
   url = "http://www.cs3.pe.hu/new_pro/preview.php";
 //Lets define a port we want to listen toc
-const PORT=8080;
+const PORT=8080;0
 
 //We need a function which anhdles requests and send response
 function handleRequest(req, res){
